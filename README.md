@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+I'm Japanese.
+I like Node.js, C and C++ language.
